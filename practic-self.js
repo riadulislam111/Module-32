@@ -925,3 +925,81 @@
 
 
 
+// let fruits = ["apple", "banana", "orange"];
+// let lastFruit = fruits.pop();
+// console.log(fruits);
+// console.log(lastFruit);
+
+
+
+// let fruits = ["apple", "banana", "orange"];
+// let firstFruit = fruits.shift();
+// console.log(fruits);
+// console.log(firstFruit);
+
+
+
+// let fruits = ["banana", "orange"];
+// fruits.unshift("apple");
+// console.log(fruits);
+
+
+// let fruits = ["apple", "banana", "orange", "mango"];
+// let selectedFruits = fruits.slice(1, 3);
+// console.log(selectedFruits);
+
+
+// let numbers = [1, 2, 3, 4 , 5, 6];
+// let doubledNumbers = numbers.map(num => num * 2);
+// console.log(doubledNumbers);
+
+
+let fruits = ["apple", "banana", "orange"];
+
+// fruits.push("grape");
+// console.log(fruits);
+
+
+
+// let lastFruit = fruits.pop();
+// console.log(fruits);
+// console.log(lastFruit);
+
+
+
+// let firstFruit = fruits.shift();
+// console.log(fruits);
+// console.log(firstFruit);
+
+// fruits.unshift("strawberry");
+// console.log(fruits);
+
+
+
+// let citrusFruits = fruits.slice();
+// console.log(citrusFruits);
+
+
+// let upperFruits = fruits.map(fruit => fruit.toUpperCase());
+// console.log(upperFruits);
+
+
+
+
+// function introduce(age, city) {
+//     console.log(`Hello, my name is ${this.name}. I am ${age} years old and I live in ${city}.`);
+
+// }
+
+// const person = {
+//     name: "Alice"
+// };
+
+// introduce.call(person, 25, "Dhaka");
+// introduce.apply(person, [25, "Dhaka"]);
+
+// const boundIntroduce = introduce.bind(person);
+// boundIntroduce(25, "Dhaka");
+
+
+
