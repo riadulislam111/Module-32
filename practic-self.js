@@ -819,3 +819,109 @@
 // console.log(d.toString());  // একই তারিখ, কিন্তু স্ট্রিং আকারে
 
 
+
+
+// // let x = 10;
+// let y = 3.14
+
+
+// let name = "John Doe";
+// let greeting = 'Hello, World';
+
+// let isAdult = true;
+// let isVerified = false;
+
+
+// let x ;
+// // console.log(x);
+
+
+// let person = null;
+// // console.log(person);
+
+
+// let sym1 = Symbol('descriptoin');
+// let sym2 = Symbol('description');
+// // console.log(sym1 === sym2);
+
+
+// let bihNumber = 45242556452555655565545652554555254555n;
+// console.log(bihNumber);
+
+
+
+
+// function greet() {
+//     console.log("Hello", "World!");
+// }
+
+// greet();
+
+// console.log(typeof greet);
+
+
+// function add(x, y) {
+//     return x + y;
+// }
+
+// add();
+
+// add.description = "This is a  function to add two numbers.";
+// console.log(add.description);
+
+
+// let fruits = ["apple", "banana", "orange"];
+
+// console.log(fruits);
+
+// console.log(typeof fruits);
+
+// fruits.push("grapes");
+// console.log(fruits);
+
+
+// let numbers = [1, 2,3,4];
+// let doubled = numbers.map(num => num * 2);
+// console.log(doubled);
+
+
+// function greet() {
+//     console.log(`Hello, ${this.name}`);
+// }
+
+// const person = {
+//     name: "Alice"
+// };
+
+// greet.call(person);
+
+// function sum(a, b) {
+//     console.log(a+b);
+// }
+
+// const numbers = [5, 10];
+// sum.apply(null, numbers);
+
+
+// const person = {
+//     name: 'Bob',
+//     greet: function () {
+//         console.log(`Hello, ${this.name}`);
+//     }
+// };
+
+// const greetBob = person.greet.bind(person);
+// greetBob();
+
+
+// let fruits = ["apple", "banana"];
+// fruits.push("orange");
+// fruits.push("add");
+// fruits.push("add");
+// fruits.push("add");
+// fruits.push("add");
+// console.log(fruits);
+
+
+
+
