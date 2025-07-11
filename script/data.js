@@ -17,10 +17,10 @@
 
 
 
-let person = "gias uddin";
-let newPerson = person;
+// let person = "gias uddin";
+// let newPerson = person;
 
-person = "hero alom";
+// person = "hero alom";
 
-console.log(newPerson);
+// console.log(newPerson);
 
