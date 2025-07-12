@@ -1,5 +1,7 @@
 // const name = undefined;
 
+// const { use } = require("react");
+
 // console.log(typeof name);
 
 
@@ -262,3 +264,19 @@
 //     return 50;
 // }
 // console.log(giveSomething);
+
+
+
+// let myVariable = null;
+// console.log(myVariable);
+
+// let user = {
+//     name: "Alice",
+//     addressLine2: null
+// };
+// console.log(user.addressLine2);
+
+
+
+
+
