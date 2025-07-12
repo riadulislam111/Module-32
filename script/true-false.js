@@ -80,12 +80,61 @@
 
 
 
-//  const name = "giass";
+//  const name = undefined;
 
 
-//  if(!name) {
+//  if(name) {
 //     console.log("this is truthy value")
 //  }
 
 
 
+// const test1 = "";
+// if(test1) {
+//     console.log("Truthy");
+// }
+// else{
+//     console.log("Falsy");
+// }
+
+// const test2 = 0;
+// if(test2) {
+//     console.log(""Truthy);
+// }else {
+//     console.log("Falsy");
+// }
+
+
+// const test3 = {};
+// if(test3) {
+//     console.log("Truthy");
+// }else{
+//     console.log("Falsy");
+// };
+
+
+
+// const test4 = NaN;
+// if(test4) {
+//     console.log("Truthy");
+// }
+// else{
+//     console.log("Falsy");
+// }
+
+
+
+// const test5 = function() {};
+//     if(test5) {
+//         console.log("Truthy")
+//     }else {
+//         console.log("Falsy")
+//     }
+
+
+
+// const val = 0;
+
+// if(!val) {
+//     console.log("val is falsy")
+// }
