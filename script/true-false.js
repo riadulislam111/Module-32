@@ -63,3 +63,29 @@
 
 
 
+///////////////////
+
+// const name = "gias uddin";
+// const name = function (){};
+
+// if(name){
+//     console.log("this is a truthy value")
+// }
+// else{
+//     console.log("this is a Falsy value")
+// };
+
+
+
+
+
+
+//  const name = "giass";
+
+
+//  if(!name) {
+//     console.log("this is truthy value")
+//  }
+
+
+
