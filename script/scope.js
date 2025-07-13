@@ -1,32 +1,30 @@
-const resultTop = "test";
+// // const resultTop = "test";
 
 
-// console.log(resultTop);
-
-
-
+// // // console.log(resultTop);
 
 
 
 
 
 
-function sum (num1, num2){
-    const result = num1 + num2;
+
+
+
+// // function sum (num1, num2){
+// //     const result = num1 + num2;
 
     
 
-    if(true){
-        var result2 = num1 - num2;
-    }
+// //     if(true){
+// //         var result2 = num1 - num2;
+// //     }
 
-    // console.log(result2)
-}
-
-
-sum (10,20);
+// //     // console.log(result2)
+// // }
 
 
+// // sum (10,20);
 
 
 
@@ -45,38 +43,80 @@ sum (10,20);
 
 
 
-// function sum (num1, num2){
+
+
+// // // function sum (num1, num2){
   
-//     const result = num1 + num2;
+// // //     const result = num1 + num2;
 
-//     console.log(result)
-// }
-
-
-// sum (10,20);
+// // //     console.log(result)
+// // // }
 
 
-// function sum (num1, num2){
-  //  var result2;// behind the seen
+// // // sum (10,20);
 
-//     const result = num1 + num2;
 
-//     console.log(result2);
+// // // function sum (num1, num2){
+// //   //  var result2;// behind the seen
 
-//     if(true){
-//         var result2 = num1 - num2;
-//     }
+// // //     const result = num1 + num2;
+
+// // //     console.log(result2);
+
+// // //     if(true){
+// // //         var result2 = num1 - num2;
+// // //     }
 
     
+// // // }
+
+
+// // // sum (10,20);
+
+
+// // // hoisting//
+
+// // // var output;
+
+// // // console.log(output);
+// // // var output = "BD";
+
+
+
+// //////////////
+
+// // function sum(num1, num2) {
+// //   const result = num1  + num2;
+// // // console.log(result)
+
+
+// // if (ture) {
+// //   // const result2 = num1 - num2;
+// //   var result2 = num1 - num2;
+
+
+// // }
+
+
+
+
+
+// // // console.log(result);
+// // }
+// // sum(12, 34);
+
+// // console.log(result);
+
+
+
+
+// function sum(num1, num2) {
+  
+//   const 
 // }
 
 
-// sum (10,20);
+//////////
 
 
-// hoisting//
 
-// var output;
-
-// console.log(output);
-// var output = "BD";
