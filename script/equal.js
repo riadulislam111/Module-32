@@ -127,3 +127,54 @@
 
 // console.log("10" == 10);
 // console.log("10" === 10);
+
+
+// Number("3.14")
+// console.log(Number)
+
+//    let y = "John";
+//    let x = + y;
+
+//    console.log(typeof y)
+
+
+// d = new Date();
+// Number(d)
+// console.log(d)
+
+
+// String(false);
+// String(true);
+// console.log(String)
+
+
+//  let y = 5 + null;
+//  console.log(y);
+
+
+//  let x = "5" + null;
+//  console.log(x)
+
+
+//  let bob = "5" + 2;
+//  console.log(bob);
+
+
+//  let g = "5" * "2";
+//  console.log(g);
+
+
+
+// if myVar = new Date()
+
+
+
+// let x = Number(55.21);
+// console.log(x);
+
+// let x = Number("john");
+// console.log(x);
+
+// let x = typeof(Number("john"));
+// console.log(x);
+
