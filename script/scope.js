@@ -195,12 +195,36 @@
 
 
 
-function checkScope() {
-  if(true) {
-    var x = 100;
-    let y = 200;
-  }
-  console.log(x);
-  console.log(y);
-}
-checkScope();
+// function checkScope() {
+//   if(true) {
+//     var x = 100;
+//     let y = 200;
+//   }
+//   console.log(x);
+//   console.log(y);
+// }
+// checkScope();
+
+
+// console.log(name);
+// var name = "Riadul";
+
+
+// var name;
+// console.log(name);
+// name = "Riadul";
+
+
+// console.log(age);
+//  let age = 25;
+
+
+// console.log(name);
+// var name = "Riadul";
+
+
+// console.log(name);
+// var name = "Riadul";
+
+// var name = "Riadul";
+// console.log(name);

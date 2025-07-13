@@ -12,5 +12,6 @@
 
 // 5) What is scope in JavaScript?
 
-// 6) Define block scope and global scope. 
-
+// // 6) Define block scope and global scope. 
+// console.log(name);
+// var name = "Riadul";
