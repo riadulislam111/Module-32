@@ -164,3 +164,156 @@
 
 // changeName(person);
 // console.log(person);
+
+//
+
+//
+
+/*
+*
+*/
+
+/*
+*
+/
+
+
+//
+//*
+
+
+
+
+
+/*
+*
+
+*/
+
+
+// var x = 23;
+
+
+// let y = 44;
+
+
+// const { bar } = foo;
+
+
+
+// let x;
+// console.log(x);
+
+
+// const x;
+// console.log(x)
+
+
+// if (Math.random() > 0.5) {
+//     const y = 5;
+// }
+// console.log(y);
+
+// if (true) {
+//     var x = 5;
+// }
+// console.log(x);
+
+
+// console.log(x === undefined);
+// var x = 3;
+
+// (function () {
+//     console.log(x);
+//     var x = "local value";
+// });
+
+
+
+
+// console.log(x === undefined); // true
+// var x = 3;
+
+// (function () {
+//   console.log(x); // undefined
+//   var x = "local value";
+// })();
+
+// console.log(x === undefined);
+// var x =3;
+
+// (function () {
+//     console.log(x);
+//      var x = "local value"
+// }) ();
+
+
+
+
+// var x;
+// console.log(x === undefined);
+// x = 3;
+
+// (function () {
+//     var x;
+//     console.log(x);
+//     x = "local value";
+// })();
+
+
+// var x;
+// console.log(x === undefined);
+// x = 3;
+
+// (function () {
+//     var x;
+//     console.log(x);
+//     x = "local value";
+// })();
+
+
+// var x = 10;
+
+// (function () {
+//     var x = 20;
+//     console.log(x);
+// })();
+
+// console.log(x);
+
+
+// console.log(x);
+
+// const x = 3;
+
+
+// console.log(y);
+// let y = 3;
+
+// const PI = 3.14;
+// console.log(PI);
+
+
+// function f() {}
+// const f = 5;
+
+
+// function f() {
+//     const g = 5;
+//     var g;
+    
+
+// }
+
+// f();
+
+
+
+// const MT_O BJECT = { key: "value"};
+// MY_OBJEXT.key = "otherValue";
+
+
+
+// const MY_ARRAY = ["HTML", "CSS"];
+// MY_ARRAY.push("JAVASCRIPT");
+// console.log(MY_ARRAY);
