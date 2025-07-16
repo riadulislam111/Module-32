@@ -310,3 +310,96 @@
 
 
 
+// if (true) {
+//     let name = "Bob";
+//     console.log(name);
+// }
+
+// console.log(name);
+
+
+
+// console.log(x);
+// var x = 5;
+// console.log(x);
+
+
+
+// var x;
+// console.log(x);
+// x = 5;
+// console.log(x);
+
+
+// console.log(y);
+// let y = 10;
+
+
+
+// let y;
+// console.log(y);
+// y = 10;
+
+
+
+// myFunction();
+
+// function myFunction() {
+//     console.log("Hello, World!");
+// }
+
+
+// function myFunction() {
+//     console.log("Hello, World!");
+// }
+
+// myFunction();
+
+
+// myFunction();
+
+// var myFunction = function() {
+//     console.log("Hello, World!");
+// };
+
+
+
+
+
+// var myFunction;
+
+// myFunction();
+// myFunction = function() {
+//     console.log("Hello, World!");
+// };
+
+
+
+
+// console.log(a);
+// var a = 2;
+// console.log(a);
+
+
+// console.log(b);
+// let b = 3;
+
+
+
+
+// greet();
+
+// function greet() {
+//     console.log("Hello, World!");
+// }
+
+
+
+
+sayHello();
+
+var sayHello = function () {
+    console.log("Hello!");
+};
+
+
