@@ -122,3 +122,40 @@
 
 
 
+// let x;
+// console.log(x);
+
+// function myFunction() {
+
+// }
+
+// let result = myFunction();
+// console.log(result);
+
+
+// let person = null;
+// console.log(person);
+
+// let object = {};
+// console.log(object);
+
+// object = null;
+// console.log(object);
+
+
+// console.log(null == undefined);
+
+// console.log(null === undefined);
+
+
+
+
+
+// let user;
+// console.log(user);
+
+
+// let data = null;
+// console.log(data);
+
+
