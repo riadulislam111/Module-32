@@ -188,3 +188,125 @@
 // let obj2 = {name: "John"};
 // console.log(obj1 === obj2);
  
+
+// let globalVar = "I am global";
+
+// function printGlobalVar() {
+//     console.log(globalVar);
+// }
+
+// printGlobalVar();
+// console.log(globalVar);
+
+
+// function exampleFunction() {
+//     let localVar = "I am local to the function";
+//     console.log(localVar);
+// }
+
+// exampleFunction();
+// console.log(localVar);
+
+
+// if (true) {
+//     let blockVar = "I am inside the block";
+//     console.log(blockVar);
+// }
+
+// console.log(blockVar);
+
+
+
+
+// function outer() {
+//     let outerVar = "I am outer";
+
+//     function inner() {
+//         console.log(outerVar);
+//     }
+
+//     inner();
+// }
+
+// outer();
+
+
+// console.log(this);
+
+
+// function showThis() {
+//     console.log(this);
+// }
+
+// showThis();
+
+
+
+// console.log(x);
+// var x = 5;
+// console.log(x);
+
+
+
+
+// function outer() {
+//     let outerVar = "I am outer";
+
+//     function inner() {
+//         console.log(outerVar);
+//     }
+//     return inner;
+// }
+
+// const closureFunction = outer();
+// closureFunction();
+
+
+// let globalVar = "I am in global scope";
+
+// function myFunction() {
+//     console.log(globalVar);
+// }
+
+// myFunction();
+// console.log(globalVar);
+
+
+
+
+// if (true) {
+//     let blockVar = "I  am inside a block";
+//     console.log(blockVar);
+// }
+
+// console.log(blockVar);
+
+
+// for (let i = 0; i < 3; i++) {
+//     console.log(i);
+// }
+
+// console.log(i);
+
+
+// let globalVar = "I am global";
+// console.log(globalVar);
+
+// if(true) { let blockVar = "I am block-scoped"};
+
+
+
+// let name = "Alice";
+
+
+// function greet() {
+//     console.log(name);
+// }
+
+// greet();
+
+// console.log(name);
+
+
+
+
