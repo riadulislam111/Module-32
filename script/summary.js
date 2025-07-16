@@ -159,3 +159,32 @@
 // console.log(data);
 
 
+// console.log(5 == "5");
+// console.log(0 == false);
+// console.log(null == undefined);
+
+
+
+
+// console.log(5 === "5");
+// console.log(0 === false);
+// console.log(null === undefined);
+
+
+
+
+// console.log(null == undefined);
+
+
+// console.log(null === undefined);
+
+
+
+// let obj1 = { name: "John"};
+// let obj2 = obj1;
+// console.log(obj1 == obj2);
+
+// let obj1 = { name: "John"};
+// let obj2 = {name: "John"};
+// console.log(obj1 === obj2);
+ 
