@@ -619,3 +619,23 @@
 
 
 
+// function modifyValue(x) {
+//     x = 10;
+//     console.log("Inside function:", x);
+// }
+
+// let num = 5;
+// modifyValue(num);
+// console.log("outside function:", num);
+
+
+// function modifyObject(obj) {
+//     obj.name = "John";
+//     console.log("Inside function:", obj);
+// }
+
+// let person = { name:"Alice"};
+// modifyObject(person);
+// console.log("outside function:", person);
+
+
