@@ -639,3 +639,7 @@
 // console.log("outside function:", person);
 
 
+// function modifyObject(obj) {
+//     obj.name = "John";
+//     console.log("Inside function:", obj);
+// }
